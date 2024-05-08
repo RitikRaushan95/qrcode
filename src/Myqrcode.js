@@ -60,5 +60,4 @@ function Myqrcode() {
 
   );
 }
-
 export default Myqrcode;
